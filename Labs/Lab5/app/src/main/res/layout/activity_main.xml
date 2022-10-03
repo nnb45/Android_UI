@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chọn Giờ" />
+
+    <Button
+        android:id="@+id/btnDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chọn Ngày" />
+
+    <Button
+        android:id="@+id/btnShow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show dialog" />
+
+    <Button
+        android:id="@+id/btnShowList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show dialog List" />
+
+    <Button
+        android:id="@+id/btnShowSingle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show dialog SingleChoice" />
+
+    <Button
+        android:id="@+id/btnShowMulti"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show dialog MultiChoice" />
+
+    <Button
+        android:id="@+id/btnShowLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show dialog Login" />
+</LinearLayout>

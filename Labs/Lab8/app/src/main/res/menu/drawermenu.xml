@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Inbox" android:id="@+id/inbox" />
+    <item android:title="Send" android:id="@+id/send" />
+    <item android:title="Drafts" android:id="@+id/drafts" />
+</menu>

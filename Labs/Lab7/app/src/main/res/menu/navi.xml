@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/left"
+        android:title="moi nhat"
+        android:icon="@drawable/ic_new"/>
+    <item
+        android:id="@+id/center"
+        android:title="yeu thich"
+        android:icon="@drawable/ic_yeu"/>
+    <item
+        android:id="@+id/right"
+        android:title="ngau nhien"
+        android:icon="@drawable/ic_ngaunhien"/>
+
+</menu>

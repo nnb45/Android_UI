@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Trang chủ" android:icon="@mipmap/ic_launcher"></item>
+    <item android:title="Giới thiệu" android:icon="@mipmap/ic_launcher"></item>
+    <item android:title="Liên hệ" android:icon="@mipmap/ic_launcher"></item>
+</menu>
